@@ -1,4 +1,3 @@
-> An awesome project! hahahahah
 
 # -InsertAPI-
 
